@@ -18,6 +18,18 @@ A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D
 * MCU: ESP32‑WROOM‑32D
 * Display: ST7796 TFT (SPI, 320×480)
 * Power: Stable 5 V supply recommended (≥2 A for demos)
--Tested With
-* TFT_eSPI library
-* SPI @ 20–40 MHz (27 MHz recommended for stability)
+
+# Wiring
+Adjust pins as needed; avoid ESP32 boot‑strap pins for CS/DC/RST.
+
+|ST7796 Hardware SPI|	ESP32 |
+|-------|-------|
+|SCK	|GPIO 18|
+|MOSI	|GPIO 23|
+|MISO	|GPIO 19 (optional)|
+|CS	|GPIO 27|
+|DC	|GPIO 26|
+|RST	|GPIO 33|
+|LED	|3 V|
+|VCC	|5 V|
+|GND	|GND|
