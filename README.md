@@ -1,7 +1,8 @@
-# Project-Haligi-Primary-Flight-Display-Simulation
+<img width="785" height="216" alt="Screenshot 2025-12-18 221615" src="https://github.com/user-attachments/assets/70366810-969d-4603-9f1e-1345083ebb07" />
+
+# Project Haligi: MPrimary Flight Display-Simulation
 A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D using an ST7796 (320×480) TFT and TFT_eSPI. The project focuses on low flicker, partial redraws, and rate‑limited rendering suitable for demos, classrooms, and student projects.
 
-<img width="785" height="216" alt="Screenshot 2025-12-18 221615" src="https://github.com/user-attachments/assets/70366810-969d-4603-9f1e-1345083ebb07" />
 
 # Features
 
