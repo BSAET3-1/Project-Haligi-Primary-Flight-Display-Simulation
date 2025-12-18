@@ -3,6 +3,7 @@
  * Author: Abrigo, Denmer John E
 	   Ante, John Christian A.
 	   Apostol, Peter Francis O.
+	   Bambico, Vince Allen F. 
 	   Caballero, Sherwin M.
 
  * Board: ESP32-WROOM-32D
