@@ -1,9 +1,8 @@
-<img width="785" height="216" alt="Screenshot 2025-12-18 221615" src="https://github.com/user-attachments/assets/70366810-969d-4603-9f1e-1345083ebb07" />
-<img width="1536" height="2048" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/dfeea2a7-6ed2-4415-882f-1879319404b8" />
+<img width="1536" height="2048" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/162d5315-ca99-454b-83b6-0c0c85ab26dc" />
 A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D using an ST7796 (320×480) TFT and TFT_eSPI. The project focuses on low flicker, partial redraws, and rate‑limited rendering suitable for demos, classrooms, and student projects.
 
-<img width="2000" height="1200" alt="553585888_810624955253793_4183030290552421418_n" src="https://github.com/user-attachments/assets/b65f13b6-badd-4feb-8b00-a2f674aa232b" />
 <img width="1655" height="2340" alt="infographics print a4-1" src="https://github.com/user-attachments/assets/60a5a708-c71c-47c6-92fc-2434945c98a1" />
+<img width="2000" height="1200" alt="553585888_810624955253793_4183030290552421418_n" src="https://github.com/user-attachments/assets/b65f13b6-badd-4feb-8b00-a2f674aa232b" />
 
 # Features
 
