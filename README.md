@@ -34,7 +34,7 @@
 
 Adjust pins as needed; avoid ESP32 boot‑strap pins for CS/DC/RST.
 
-<img width="2048" height="1448" alt="553508477_1042325464547451_2434230432246443031_n" src="https://github.com/user-attachments/assets/21ce001c-b8af-4b14-9fd0-9438137387ff" />
+<img width="2048" height="1448" alt="553508477_1042325464547451_2434230432246443031_n" src="https://github.com/user-attachments/assets/21ce001c-b8af-4b14-9fd0-9438137387ff" /><br />
 
 |ST7796 Hardware SPI|	ESP32 |
 |-------|-------|
@@ -88,7 +88,7 @@ Adjust pins as needed; avoid ESP32 boot‑strap pins for CS/DC/RST.
 
 
 # Acknowledgements
-<img width="1352" height="600" alt="Screenshot 2025-12-18 223555" src="https://github.com/user-attachments/assets/2dafb0d8-6d6d-43af-9b8b-1221ad2eef28" />
+<img width="1352" height="600" alt="Screenshot 2025-12-18 223555" src="https://github.com/user-attachments/assets/2dafb0d8-6d6d-43af-9b8b-1221ad2eef28" /><br />
 <img width="761" height="731" alt="Screenshot 2025-12-18 223522" src="https://github.com/user-attachments/assets/03d76905-70e3-483b-8039-3c6c174d273a" />
 
 # ⚠️ Disclaimer
