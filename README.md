@@ -1,4 +1,4 @@
-<img width="1056" height="802" alt="image" src="https://github.com/user-attachments/assets/613f4bd7-6f6f-407f-8b35-d62a67030e73" /><img width="1536" height="1203" alt="Final" src="https://github.com/user-attachments/assets/a95eb3bb-a56c-4b8b-a4e1-62d71a69910b" />
+<img width="1536" height="1203" alt="Final" src="https://github.com/user-attachments/assets/a95eb3bb-a56c-4b8b-a4e1-62d71a69910b" />
 
 A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D using an ST7796 (320×480) TFT and TFT_eSPI. The project focuses on low flicker, partial redraws, and rate‑limited rendering suitable for demos, classrooms, and student projects.
 <br />
@@ -29,8 +29,6 @@ A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D
 Adjust pins as needed; avoid ESP32 boot‑strap pins for CS/DC/RST.
 
 <img width="2048" height="1448" alt="553508477_1042325464547451_2434230432246443031_n" src="https://github.com/user-attachments/assets/21ce001c-b8af-4b14-9fd0-9438137387ff" />
-<img width="1056" height="802" alt="wiring 1" src="https://github.com/user-attachments/assets/489c50b6-7c62-482a-b7c4-a4f34987db6a" />
-
 
 |ST7796 Hardware SPI|	ESP32 |
 |-------|-------|
@@ -99,7 +97,8 @@ This project was developed as part of our undergraduate thesis in the Bachelor o
 📬 You may message us through our emails  for academic inquiries, collaboration, or access to the paper.
 <br />
 
-© 2025 Denmer John E. Abrigo  denmerjohnabrigo@gmail.com <br />
+© 2025<br />
+Denmer John E. Abrigo  denmerjohnabrigo@gmail.com <br />
 John Christian A. Ante || johnchristianante@gmail.com <br />
 Peter Francis O. Apostol | peterapostol75@gmail.com <br />
 Sherwin M. Caballero  sherwin.caballero@proton.me<br /> 
@@ -107,3 +106,4 @@ Sherwin M. Caballero  sherwin.caballero@proton.me<br />
 National Aviation Academy of the Philippines (formerly Philippine State College of Aeronautics).<br />
 <br />
 All rights reserved except as permitted under the Apache License 2.0.
+You are free to use, modify, and distribute this code, provided that proper credit is given and the license terms are followed.
