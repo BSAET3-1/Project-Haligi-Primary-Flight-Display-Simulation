@@ -86,6 +86,8 @@ Adjust pins as needed; avoid ESP32 boot‑strap pins for CS/DC/RST.
 * The default sketch includes simulated flight data for demo/testing.
 * Requires clean power for reliable startup.
 
+<img width="780" height="826" alt="Screenshot 2025-12-19 004339" src="https://github.com/user-attachments/assets/6d540ed7-43a5-499d-9956-99b92cde7d2f" />
+
 
 # Acknowledgements
 <img width="1352" height="600" alt="Screenshot 2025-12-18 223555" src="https://github.com/user-attachments/assets/2dafb0d8-6d6d-43af-9b8b-1221ad2eef28" /><br />
