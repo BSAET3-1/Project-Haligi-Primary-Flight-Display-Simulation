@@ -33,3 +33,27 @@ Adjust pins as needed; avoid ESP32 boot‑strap pins for CS/DC/RST.
 |LED	|3 V|
 |VCC	|5 V|
 |GND	|GND|
+
+|MPU 6050|	ESP32 |
+|-------|-------|
+|VCC	|3.3V|
+|GND	|GND|
+|SDA	|GPIO 21|
+|SCL	|GPIO 22|
+|AD0	|GND → Address 0x68 (For the 1st MPU6050)|
+
+|MPU 6050|	ESP32 |
+|-------|-------|
+|VCC	|3.3V|
+|GND	|GND|
+|SDA	|GPIO 21|
+|SCL	|GPIO 22|
+|AD0	|3.3V → Address 0x69 (For the 1st MPU6050)|
+
+|Encoder| 	ESP32| 
+|CLK (A)	|GPIO 34|
+|DT (B)	|GPIO 35|
+|SW|	|GPIO 27|
+|GND	|GND|
+|⚠️ GPIO 34 & 35 are input-only → perfect for encoders|
+
