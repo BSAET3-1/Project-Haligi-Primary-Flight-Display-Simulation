@@ -2,7 +2,7 @@
 
 
 <br />
-A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D using an ST7796 (320×480) TFT and TFT_eSPI. The project focuses on low flicker, partial redraws, and rate‑limited rendering suitable for demos, classrooms, and student projects.
+<br />A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D using an ST7796 (320×480) TFT and TFT_eSPI. The project focuses on low flicker, partial redraws, and rate‑limited rendering suitable for demos, classrooms, and student projects.<br />
 <br />
 
 
@@ -109,5 +109,5 @@ Sherwin M. Caballero  | sherwin.caballero@proton.me<br />
 
 National Aviation Academy of the Philippines (formerly Philippine State College of Aeronautics).<br />
 <br />
-All rights reserved except as permitted under the Apache License 2.0.<br />
+All rights reserved except as permitted under the Apache License 2.0.
 You are free to use, modify, and distribute this code, provided that proper credit is given and the license terms are followed.
