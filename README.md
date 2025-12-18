@@ -1,7 +1,7 @@
-<img width="1536" height="1203" alt="Final" src="https://github.com/user-attachments/assets/a95eb3bb-a56c-4b8b-a4e1-62d71a69910b" />
+<img width="1056" height="802" alt="image" src="https://github.com/user-attachments/assets/613f4bd7-6f6f-407f-8b35-d62a67030e73" /><img width="1536" height="1203" alt="Final" src="https://github.com/user-attachments/assets/a95eb3bb-a56c-4b8b-a4e1-62d71a69910b" />
 
 A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D using an ST7796 (320×480) TFT and TFT_eSPI. The project focuses on low flicker, partial redraws, and rate‑limited rendering suitable for demos, classrooms, and student projects.
-
+<br />
 <img width="1655" height="2340" alt="infographics print a4-1" src="https://github.com/user-attachments/assets/60a5a708-c71c-47c6-92fc-2434945c98a1" />
 
 <img width="2000" height="1200" alt="553585888_810624955253793_4183030290552421418_n" src="https://github.com/user-attachments/assets/b65f13b6-badd-4feb-8b00-a2f674aa232b" />
@@ -29,7 +29,8 @@ A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D
 Adjust pins as needed; avoid ESP32 boot‑strap pins for CS/DC/RST.
 
 <img width="2048" height="1448" alt="553508477_1042325464547451_2434230432246443031_n" src="https://github.com/user-attachments/assets/21ce001c-b8af-4b14-9fd0-9438137387ff" />
-![Wiring](https://github.com/user-attachments/assets/d2323df6-74ee-4be1-87c9-fe029a23c598)
+<img width="1056" height="802" alt="wiring 1" src="https://github.com/user-attachments/assets/489c50b6-7c62-482a-b7c4-a4f34987db6a" />
+
 
 |ST7796 Hardware SPI|	ESP32 |
 |-------|-------|
@@ -94,6 +95,7 @@ This project is NOT certified for real flight use. It is intended strictly for e
 This project was developed as part of our undergraduate thesis in the Bachelor of Science in Aviation Electronics Technology (BSAET) at the National Aviation Academy of the Philippines (formerly PhilSCA).<br />
 <br />A formal research paper based on this system has been written and presented. If you are interested in the methodology, results, or documentation, feel free to contact us.
 <br />
+<br />
 📬 You may message us through our emails  for academic inquiries, collaboration, or access to the paper.
 <br />
 
@@ -103,4 +105,5 @@ Peter Francis O. Apostol | peterapostol75@gmail.com <br />
 Sherwin M. Caballero  sherwin.caballero@proton.me<br /> 
 
 National Aviation Academy of the Philippines (formerly Philippine State College of Aeronautics).<br />
+<br />
 All rights reserved except as permitted under the Apache License 2.0.
