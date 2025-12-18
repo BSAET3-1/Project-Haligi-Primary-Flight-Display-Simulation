@@ -27,6 +27,8 @@
 * MCU: ESP32‑WROOM‑32D
 * Display: ST7796 TFT (SPI, 320×480)
 * Power: Stable 5 V supply recommended (≥2 A for demos)
+* 2 MPU 6050
+* EC11 Rotary Encoder (Breakout)
 
 # Wiring
 
