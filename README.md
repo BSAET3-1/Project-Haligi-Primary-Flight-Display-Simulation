@@ -1,8 +1,10 @@
 <img width="1536" height="1203" alt="Final" src="https://github.com/user-attachments/assets/a95eb3bb-a56c-4b8b-a4e1-62d71a69910b" />
 
 
+<br />
 A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D using an ST7796 (320×480) TFT and TFT_eSPI. The project focuses on low flicker, partial redraws, and rate‑limited rendering suitable for demos, classrooms, and student projects.
 <br />
+
 
 <img width="1655" height="2340" alt="infographics print a4-1" src="https://github.com/user-attachments/assets/60a5a708-c71c-47c6-92fc-2434945c98a1" />
 
@@ -107,5 +109,5 @@ Sherwin M. Caballero  | sherwin.caballero@proton.me<br />
 
 National Aviation Academy of the Philippines (formerly Philippine State College of Aeronautics).<br />
 <br />
-All rights reserved except as permitted under the Apache License 2.0.
+All rights reserved except as permitted under the Apache License 2.0.<br />
 You are free to use, modify, and distribute this code, provided that proper credit is given and the license terms are followed.
