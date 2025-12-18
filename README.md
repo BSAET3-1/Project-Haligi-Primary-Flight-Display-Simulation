@@ -1,9 +1,9 @@
 <img width="785" height="216" alt="Screenshot 2025-12-18 221615" src="https://github.com/user-attachments/assets/70366810-969d-4603-9f1e-1345083ebb07" />
+<img width="1536" height="2048" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/dfeea2a7-6ed2-4415-882f-1879319404b8" />
 A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D using an ST7796 (320×480) TFT and TFT_eSPI. The project focuses on low flicker, partial redraws, and rate‑limited rendering suitable for demos, classrooms, and student projects.
 
-<img width="1536" height="2048" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/91a4d479-7bd5-463e-b702-094fcaf9bb84" />
 <img width="2000" height="1200" alt="553585888_810624955253793_4183030290552421418_n" src="https://github.com/user-attachments/assets/b65f13b6-badd-4feb-8b00-a2f674aa232b" />
-![553407676_1716656455710085_4486536921691015550_n](https://github.com/user-attachments/assets/a51bd2ff-6cb3-4936-9080-89067adeffad)
+<img width="1655" height="2340" alt="infographics print a4-1" src="https://github.com/user-attachments/assets/60a5a708-c71c-47c6-92fc-2434945c98a1" />
 
 # Features
 
@@ -24,7 +24,9 @@ A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D
 * Power: Stable 5 V supply recommended (≥2 A for demos)
 
 # Wiring
+
 Adjust pins as needed; avoid ESP32 boot‑strap pins for CS/DC/RST.
+
 <img width="2048" height="1448" alt="553508477_1042325464547451_2434230432246443031_n" src="https://github.com/user-attachments/assets/21ce001c-b8af-4b14-9fd0-9438137387ff" />
 ![0642d652-b39d-4ed8-a87e-302f86908ac0](https://github.com/user-attachments/assets/6fcc4e45-9d25-4d30-8422-598baf28778f)
 
@@ -60,7 +62,7 @@ Adjust pins as needed; avoid ESP32 boot‑strap pins for CS/DC/RST.
 |-------|-------|
 |CLK (A)	|GPIO 34|
 |DT (B)	|GPIO 35|
-|SW|	|GPIO 27|
+|SW|	|GPIO 27 |
 |GND	|GND|
 |⚠️ GPIO 34 & 35 are input-only → perfect for encoders|
 
@@ -88,17 +90,16 @@ This project is NOT certified for real flight use. It is intended strictly for e
 
 # 📄 Thesis & Research Notice
 
-This project was developed as part of our undergraduate thesis in the Bachelor of Science in Aviation Electronics Technology (BSAET) at the National Aviation Academy of the Philippines (Formerly PhilSCA).
+This project was developed as part of our undergraduate thesis in the Bachelor of Science in Aviation Electronics Technology (BSAET) at the National Aviation Academy of the Philippines (Formerly PhilSCA).<br />
 A formal research paper based on this system has been written and presented. If you are interested in the methodology, results, or documentation, feel free to contact us.
-
+<br />
 📬 You may message us through our emails  for academic inquiries, collaboration, or access to the paper.
+<br />
 
-© 2025 Denmer John E. Abrigo
-denmerjohnabrigo@gmail.com 
-John Christian A. Ante
-johnchristianante@gmail.com 
-Peter Francis O. Apostol
-peterapostol75@gmail.com 
-Sherwin M. Caballero
-sherwin.caballero@proton.me, National Aviation Academy of the Philippines (formerly Philippine State College of Aeronautics).
+© 2025 Denmer John E. Abrigo  denmerjohnabrigo@gmail.com <br />
+John Christian A. Ante || johnchristianante@gmail.com <br />
+Peter Francis O. Apostol | peterapostol75@gmail.com <br />
+Sherwin M. Caballero  sherwin.caballero@proton.me<br /> 
+
+National Aviation Academy of the Philippines (formerly Philippine State College of Aeronautics).<br />
 All rights reserved except as permitted under the Apache License 2.0.
