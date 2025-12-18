@@ -1,7 +1,9 @@
 <img width="1536" height="1203" alt="Final" src="https://github.com/user-attachments/assets/a95eb3bb-a56c-4b8b-a4e1-62d71a69910b" />
 
+
 A Garmin G5–style Primary Flight Display implemented on an ESP32‑WROOM‑32D using an ST7796 (320×480) TFT and TFT_eSPI. The project focuses on low flicker, partial redraws, and rate‑limited rendering suitable for demos, classrooms, and student projects.
 <br />
+
 <img width="1655" height="2340" alt="infographics print a4-1" src="https://github.com/user-attachments/assets/60a5a708-c71c-47c6-92fc-2434945c98a1" />
 
 <img width="2000" height="1200" alt="553585888_810624955253793_4183030290552421418_n" src="https://github.com/user-attachments/assets/b65f13b6-badd-4feb-8b00-a2f674aa232b" />
@@ -62,7 +64,7 @@ Adjust pins as needed; avoid ESP32 boot‑strap pins for CS/DC/RST.
 |-------|-------|
 |CLK (A)	|GPIO 34|
 |DT (B)	|GPIO 35|
-|SW|	|GPIO 27 |
+|SW	|GPIO 27|
 |GND	|GND|
 |⚠️ GPIO 34 & 35 are input-only → perfect for encoders|
 
@@ -98,10 +100,10 @@ This project was developed as part of our undergraduate thesis in the Bachelor o
 <br />
 
 © 2025<br />
-Denmer John E. Abrigo  denmerjohnabrigo@gmail.com <br />
-John Christian A. Ante || johnchristianante@gmail.com <br />
+Denmer John E. Abrigo | denmerjohnabrigo@gmail.com <br />
+John Christian A. Ante | johnchristianante@gmail.com <br />
 Peter Francis O. Apostol | peterapostol75@gmail.com <br />
-Sherwin M. Caballero  sherwin.caballero@proton.me<br /> 
+Sherwin M. Caballero  | sherwin.caballero@proton.me<br /> 
 
 National Aviation Academy of the Philippines (formerly Philippine State College of Aeronautics).<br />
 <br />
