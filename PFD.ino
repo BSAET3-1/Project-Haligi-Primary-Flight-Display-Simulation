@@ -7,7 +7,7 @@
 
  * Board: ESP32-WROOM-32D
  * Display: ST7796 320x480 (SPI)
- * License: MIT
+ * License: Apache License 2.0
  
   TWO MPU6050s:
     - 0x68 supplies PITCH only (roll ignored)
