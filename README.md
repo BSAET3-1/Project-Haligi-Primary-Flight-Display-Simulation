@@ -109,6 +109,7 @@ This project was developed as part of our undergraduate thesis in the Bachelor o
 Denmer John E. Abrigo | denmerjohnabrigo@gmail.com <br />
 John Christian A. Ante | johnchristianante@gmail.com <br />
 Peter Francis O. Apostol | peterapostol75@gmail.com <br />
+Vince Allen F. Bambico | allen.bambico@gmail.com<br /> 
 Sherwin M. Caballero  | sherwin.caballero@proton.me<br /> 
 
 National Aviation Academy of the Philippines (formerly Philippine State College of Aeronautics).<br />
