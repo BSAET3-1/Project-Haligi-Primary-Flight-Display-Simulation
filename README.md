@@ -62,7 +62,7 @@ Adjust pins as needed; avoid ESP32 boot‑strap pins for CS/DC/RST.
 |GND	|GND|
 |SDA	|GPIO 21|
 |SCL	|GPIO 22|
-|AD0	|3.3V → Address 0x69 (For the 1st MPU6050)|
+|AD0	|3.3V → Address 0x69 (For the 2nd MPU6050)|
 
 |Encoder| 	ESP32| 
 |-------|-------|
