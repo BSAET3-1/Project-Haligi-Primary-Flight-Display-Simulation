@@ -93,8 +93,9 @@ Adjust pins as needed; avoid ESP32 boot‑strap pins for CS/DC/RST.
 <img width="1352" height="600" alt="Screenshot 2025-12-18 223555" src="https://github.com/user-attachments/assets/2dafb0d8-6d6d-43af-9b8b-1221ad2eef28" /><br />
 <img width="761" height="731" alt="Screenshot 2025-12-18 223522" src="https://github.com/user-attachments/assets/03d76905-70e3-483b-8039-3c6c174d273a" />
 
-# ⚠️ Disclaimer
+# ⚠️ Disclaimer:: For those who come after
 This project is NOT certified for real flight use. It is intended strictly for educational and experimental purposes only.
+However, you can hook up BME 280s to act as pitot and static and change the loop value in the code to work with them isntead of a simulated one.
 
 # 📄 Thesis & Research Notice
 
